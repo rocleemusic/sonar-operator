@@ -51,6 +51,7 @@ Route to a verdict regardless of score:
 - **No funding from any source** (no publisher, raise, notable revenue, or grant/crowdfund) → **DECLINE** — they can't hire. Exceptions (see `../rules.md`): reel-grade craft → **FLAG** (reel-vs-revenue); a warm tie or relationship catalyst → **NURTURE** (keep-warm watchlist).
 - **Rhythm / music game** → **DECLINE** (audio is the gameplay).
 - **In acquisition / transition** → **FLAG** (timing uncertain); don't treat the score as final.
+- **Studio closed / shut down** → dead target: drop fit to zero and DECLINE the company. But a closure is a relationship catalyst — with a known contact, pivot to a person-level check-in (`../rules.md`).
 
 **Not disqualifiers** (recalibrated — these used to auto-fail):
 - **Studio size** — large headcount never disqualifies; it lowers the size signal and routes to overflow / co-dev.
