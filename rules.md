@@ -23,6 +23,8 @@ Evaluated top-down; the first matching rule wins.
 
 **In-house audio lead (edge):** an existing audio lead is an overflow opportunity, not a standalone reason to DECLINE. The studio routes on its score like any other — PURSUE-overflow at score ≥60 or with a live catalyst, otherwise NURTURE with an overflow watch-trigger.
 
+**Studio closure (found on a search / news / re-triage pass):** a shut-down studio is a dead vendor target — drop its fit to zero and DECLINE the *company*. But a closure scatters good people, so it's a relationship signal, not an ending: if a contact is in the CRM, treat it as a layoff/check-in catalyst → **NURTURE the person** and draft a **warm check-in** (acknowledge the news, ask where they're landing, keep the door open — not a pitch). When that contact resurfaces elsewhere, their job change is a fresh catalyst to re-triage the new studio.
+
 ## Pursue mode (only when the verdict is PURSUE)
 
 The mode sets the pitch framing and which CCI credit leads, decided by internal audio headcount:
