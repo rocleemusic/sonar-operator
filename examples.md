@@ -1,6 +1,6 @@
 # Examples — Sonar
 
-Five worked decisions — the calibration set. Studio and contact names are obscured. Each shows the read, the verdict and the rule that fired (`rules.md`), and the column-15 record (`reference/output-schema.md`).
+Six worked decisions — the calibration set. Studio and contact names are obscured. Each shows the read, the verdict and the rule that fired (`rules.md`), and the column-15 record (`reference/output-schema.md`).
 
 ## 1. PURSUE (primary-vendor) — funded studio, live catalyst
 **Input:** "Lumen Hollow Games — lumenhollow.example. Announced an October ship date for their narrative-horror title."
