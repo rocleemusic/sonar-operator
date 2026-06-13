@@ -48,4 +48,4 @@ Alongside the record, Sonar drafts the verdict's artifact (`../rules.md`):
 
 ## Re-triage — the sheet is the state
 
-A company already in the sheet → don't overwrite. **Diff** the new read against the prior row and propose the update (score moved, catalyst fired, contact warmed). The MASTER sheet *is* Sonar's memory.
+A company already in the sheet → don't overwrite. **Diff** the new read against the prior row and propose the update (score moved, catalyst fired, contact warmed). The MASTER sheet *is* Sonar's memory. A **closure** found on a news/search pass drops the score to zero and flips the row to DECLINE (closed) — or to a person-level check-in if a contact is on file.
