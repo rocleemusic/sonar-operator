@@ -17,7 +17,7 @@ A live one lifts a Tier-2 fit (50–69) to **PURSUE** (rule 6). They signal that
 These don't require an open project. They are the **floor-extenders**: on an otherwise-DECLINE studio (e.g. unfunded), a live relationship catalyst lifts the verdict to **NURTURE** — keep the connection warm — never to PURSUE. See the Relationship floor in `../rules.md`.
 - **GDC / GameSoundCon presence** — cheap face-time; a marathon, not a sprint.
 - **A contact's job change** — a known face landed somewhere worth tracking.
-- **A layoff / studio-trouble check-in** — a human reason to reach out, not a pitch.
+- **A layoff, studio closure, or studio-trouble check-in** — a human reason to reach out, not a pitch. A closure scatters good people; follow them to where they land next.
 - **A catch-up** — the relationship itself is overdue.
 - **Contacts-CRM `Overdue = Yes`** — a built-in, dated catch-up excuse straight from the contact list (`contact-list.md`).
 
