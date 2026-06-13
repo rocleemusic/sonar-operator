@@ -60,3 +60,16 @@ Action:   Confirm the input before triage.
 Score:    —
 Flag:     No studio found for "Triton Reef Games." Renamed, mis-spelled, or a sub-studio of a parent?
 ```
+
+## 6. Studio closure (found on a news / re-triage pass) — follow the person
+**Input:** "Re-check Northwind Interactive — news says the studio shut down."
+**Read:** studio closed → dead vendor target; fit drops to zero. But Priya Anand (Audio Director) is in the CRM (2nd-degree, via Tom).
+**Verdict: DECLINE the company; NURTURE the person.** A closure is a check-in catalyst, not an ending — draft a warm note and follow her to her next studio (where her job change becomes a fresh catalyst to re-triage).
+```
+DECLINE (closed) · pivot to person
+Action:   Warm check-in to Priya Anand — not a pitch. Flag her next move to re-triage.
+The in:   Priya Anand (Audio Director), ex-Northwind, 2nd-degree via Tom (CRM).
+Score:    0/107 — studio shut down, dead target.
+Catalyst: relationship — studio closure / check-in.
+```
+**Draft (check-in):** acknowledge the news, no pitch; ask where she's headed; offer to stay in touch — the relationship outlives the studio.
